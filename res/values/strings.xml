@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Forever.fm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_radio">RadioActivity</string>
+
+</resources>
